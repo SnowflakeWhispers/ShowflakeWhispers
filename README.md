@@ -1,4 +1,4 @@
-# 🌌 Hi there! 👋 I’m Yuna Kim!
+# 🌌 Hi there! 👋 I’m Yuna!
 
 A passionate web developer with a love for clean, efficient code.  
 💻 Focus: Front-end development, responsive design, and user experience.  
