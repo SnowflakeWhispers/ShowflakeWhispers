@@ -1,3 +1,8 @@
-# 🌌 Hi there, I'm Lunaire "Luna"!
+# 🌌 Hi there! 👋 I’m Yuna Kim!
 
-❄️🌙 Welcome to Lunaire's sanctuary! Here, each pawprint tells a story, and every purr carries the melody of dreams. 🎶🌠 Embrace the frost-kissed wonders and join me on this journey through the realms where magic and reality entwine. 🐾✨ #WhisperingWonders
+A passionate web developer with a love for clean, efficient code.  
+💻 Focus: Front-end development, responsive design, and user experience.  
+🌱 Currently exploring: React, TypeScript, and creative coding.  
+🛠️ Skills: HTML, CSS, JavaScript, Python.  
+🌐 Let's connect and create!  
+
